@@ -6,13 +6,17 @@
   "projection": {"type": "equalEarth"},
   "layer": [
     {
+      "data": {"sphere": true},
+      "mark": {"type": "geoshape", "fill": "lightblue"}
+},
+    {
       "data": {
-        "url": "https://raw.githubusercontent.com/Yanhao-Troye/FIT3179_Homework-9/refs/heads/main/JS/ne_110m_admin_0_countries.json",  
+        "url": "https://raw.githubusercontent.com/Yanhao-Troye/FIT3179_Homework-9/main/JS/ne_110m_admin_0_countries.json",  
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
       },
       "mark": {
         "type": "geoshape",
-        "fill": "#f0e4c3",  
+        "fill": "#FFFFE0",  
         "stroke": "#cccccc"  
       }
     },
@@ -21,7 +25,7 @@
         "url": "https://raw.githubusercontent.com/Yanhao-Troye/FIT3179_Homework-9/main/JS/world_countries.json",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
-      "mark": {"type": "geoshape", "fill": null, "stroke": "#d3d3d3"}  
+      "mark": {"type": "geoshape", "fill": null, "stroke":"#808080"}  
     },
     {
       "data": {
