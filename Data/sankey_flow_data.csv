@@ -1,0 +1,73 @@
+"Country","Industry","Count"
+"China","Artificial Intelligence",4
+"China","Artificial intelligence",15
+"China","Auto & transportation",18
+"China","Consumer & retail",8
+"China","Cybersecurity",1
+"China","Data management & analytics",2
+"China","E-commerce & direct-to-consumer",28
+"China","Edtech",12
+"China","Fintech",8
+"China","Hardware",18
+"China","Health",10
+"China","Internet software & services",15
+"China","Mobile & telecommunications",13
+"China","Other",6
+"China","Supply chain, logistics, & delivery",12
+"China","Travel",3
+"Germany","Auto & transportation",2
+"Germany","Consumer & retail",1
+"Germany","Data management & analytics",1
+"Germany","E-commerce & direct-to-consumer",5
+"Germany","Fintech",6
+"Germany","Hardware",1
+"Germany","Health",1
+"Germany","Internet software & services",4
+"Germany","Other",2
+"Germany","Supply chain, logistics, & delivery",3
+"Germany","Travel",3
+"India","Auto & transportation",2
+"India","Consumer & retail",1
+"India","Data management & analytics",1
+"India","E-commerce & direct-to-consumer",17
+"India","Edtech",7
+"India","Fintech",16
+"India","Health",2
+"India","Internet software & services",13
+"India","Mobile & telecommunications",1
+"India","Other",1
+"India","Supply chain, logistics, & delivery",7
+"India","Travel",1
+"United Kingdom","Artificial intelligence",3
+"United Kingdom","Auto & transportation",1
+"United Kingdom","Consumer & retail",1
+"United Kingdom","Data management & analytics",1
+"United Kingdom","E-commerce & direct-to-consumer",2
+"United Kingdom","Edtech",1
+"United Kingdom","Fintech",27
+"United Kingdom","Hardware",1
+"United Kingdom","Health",2
+"United Kingdom","Internet software & services",2
+"United Kingdom","Mobile & telecommunications",1
+"United Kingdom","Other",5
+"United Kingdom","Supply chain, logistics, & delivery",1
+"United States","Artificial Intelligence",7
+"United States","Artificial intelligence",45
+"United States","Artificial intelligence ",1
+"United States","Auto & transportation",9
+"United States","Auto & transportation ",1
+"United States","Consumer & retail",12
+"United States","Consumer & retail ",1
+"United States","Cybersecurity",44
+"United States","Cybersecurity ",1
+"United States","Data management & analytics",35
+"United States","E-commerce & direct-to-consumer",27
+"United States","Edtech",9
+"United States","Fintech",133
+"United States","Hardware",14
+"United States","Health",72
+"United States","Internet software & services",162
+"United States","Mobile & telecommunications",13
+"United States","Other",34
+"United States","Supply chain, logistics, & delivery",26
+"United States","Travel",1
